@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NATHANCOOL1
 - 👀 I’m interested in developing vidéo game
 - 🌱 I’m currently learning the base of unreal engine
-- ⚡ Fun fact: to created a vidéo game he take up to 2years to 5years
+- ⚡ Fun fact : for creating a vidéo game, it need up to 2years to 5years
 - 
 
 <!---
