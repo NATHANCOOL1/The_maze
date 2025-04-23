@@ -1,0 +1,6 @@
+print("premier fichier python!")
+input("cool")
+print("on peut que discuter")
+input("ok")
+print("aurevoir")
+input("ciao")
