@@ -6,14 +6,14 @@
 
 
 System requirements minimum:
--intel core i5 first generation
--intel graphics 520 hd
--2gb of RAM 
--windows 10/11 required
+- intel core i5 first generation
+- intel graphics 520 hd
+- 2gb of RAM 
+- windows 10/11 required
 
 
 System requirements recommend:
--intel core i5
+- intel core i5
 - NVIDIA GeForce GTX 1050/Radeon RX 580
 - 4gb of RAM
 - windows 10/11 required
